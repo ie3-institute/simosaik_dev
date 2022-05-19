@@ -1,0 +1,8 @@
+[submodule "simona"]
+	path = simona
+	url = git@github.com:ie3-institute/simona.git
+	branch = dev
+[submodule "simonaAPI"]
+	path = simonaAPI
+	url = git@github.com:ie3-institute/simonaAPI.git
+	branch = dev
