@@ -16,3 +16,4 @@ includeBuild('simonaAPI') {
         substitute module('com.github.ie3-institute:simonaAPI') with project(':')
     }
 }
+includeBuild 'simonaOpfInterface'
