@@ -6,7 +6,7 @@
 	path = simonaAPI
 	url = git@github.com:ie3-institute/simonaAPI.git
 	branch = dev
-[submodule "simonaOpfInterface"]
-	path = simonaOpfInterface
-	url = git@github.com:ie3-institute/SimonaOpfInterface.git
+[submodule "simosaik"]
+	path = simosaik
+	url = git@github.com:ie3-institute/simosaik.git
 	branch = main

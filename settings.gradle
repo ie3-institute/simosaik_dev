@@ -16,4 +16,4 @@ includeBuild('simonaAPI') {
         substitute module('com.github.ie3-institute:simonaAPI') using project(':')
     }
 }
-includeBuild 'simonaOpfInterface'
+includeBuild 'simosaik'
