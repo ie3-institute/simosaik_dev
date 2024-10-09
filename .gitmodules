@@ -1,11 +1,11 @@
 [submodule "simona"]
 	path = simona
 	url = git@github.com:ie3-institute/simona.git
-	branch = jb/#671-externaldataservice
+	branch = dev
 [submodule "simonaAPI"]
 	path = simonaAPI
 	url = git@github.com:ie3-institute/simonaAPI.git
-	branch = jb/#167-enhanceinit
+	branch = dev
 [submodule "simosaik"]
 	path = simosaik
 	url = git@github.com:ie3-institute/simosaik.git
