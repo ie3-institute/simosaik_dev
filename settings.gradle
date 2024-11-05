@@ -9,7 +9,7 @@
  */
 
 
-rootProject.name = 'simonaAPI_dev'
+rootProject.name = 'simosaik_dev'
 includeBuild 'simona'
 includeBuild('simonaAPI') {
     dependencySubstitution {
