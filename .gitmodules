@@ -10,6 +10,3 @@
 	path = simosaik
 	url = git@github.com:ie3-institute/simosaik.git
 	branch = main
-[submodule "opsim_simona_demo_extern"]
-	path = opsim_simona_demo_extern
-	url = git@gitlab.cc-asp.fraunhofer.de:recode/opsim_simona_demo_extern.git
