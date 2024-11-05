@@ -17,3 +17,4 @@ includeBuild('simonaAPI') {
     }
 }
 includeBuild 'simosaik'
+includeBuild 'opsim_simona_demo_extern'
